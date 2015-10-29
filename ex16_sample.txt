@@ -1,0 +1,3 @@
+I just erased the file
+Now I need to add some lines to the file
+Here we go
